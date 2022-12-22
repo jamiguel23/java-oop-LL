@@ -10,6 +10,6 @@ public class Main {
 
 
         color brighterBlue = myDefaultBlue.brighter();
-        
+
     }
 }
